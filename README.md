@@ -89,7 +89,7 @@ This repository contains the projects completed as part of the Google Advanced D
 
 The projects included in this repository are as follows:
 
-1. [Project 1: New York City Taxi and Limousine Commission (TLC)](https://github.com/EfthimiosVlahos/Google-Advanced-Data-Analytics-Professional-Certificate-Projects/tree/main/TLC)
+1. [Project 1: New York City Taxi and Limousine Commission (TLC)]
 
 - Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. 
 
